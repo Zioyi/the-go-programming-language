@@ -11,6 +11,5 @@ func main() {
 	fmt.Println(a)
 
 	var prev int
-	prev = nil
 	fmt.Println(prev)
 }

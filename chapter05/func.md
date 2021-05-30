@@ -78,7 +78,7 @@ func main() {
 
 	m1 := map[int]int{0: 1, 1: 1, 2: 3}
 	updateMap(m1, 0, 100)
-	fmt.Println(m1) // map[0:100 1:1 2:3]
+	fmt.Println(m1) // basic_type[0:100 1:1 2:3]
 }
 ```
 

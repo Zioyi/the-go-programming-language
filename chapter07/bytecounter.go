@@ -15,3 +15,7 @@ func byteCounterExample() {
 	fmt.Fprintf(&c, "hello, %s", name)
 	fmt.Println(c)
 }
+
+func main() {
+	byteCounterExample()
+}

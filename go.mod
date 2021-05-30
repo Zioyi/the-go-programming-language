@@ -6,4 +6,6 @@ require (
 	github.com/gizak/termui/v3 v3.1.0
 	github.com/pkg/errors v0.9.1
 	github.com/tidwall/gjson v1.8.0
+	gorm.io/driver/mysql v1.1.0
+	gorm.io/gorm v1.21.10
 )

@@ -11,8 +11,8 @@ import (
 )
 
 // func main() {
-// 	var ages map[string]int
-// 	ages = make(map[string]int)
+// 	var ages basic_type[string]int
+// 	ages = make(basic_type[string]int)
 // 	ages["carol"] = 21
 // 	fmt.Println(ages)
 // 	fmt.Println(ages["aaaa"])
@@ -28,7 +28,7 @@ const (
 	OTHER
 )
 
-func main2() {
+func main22() {
 	counts := make(map[int]int)
 	var utflen [utf8.UTFMax]int
 	invalid := 0
