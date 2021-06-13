@@ -70,4 +70,7 @@ func main2() {
 func main() {
 	e := []int{1: 42, 55, 66, 77, 7: 88}
 	fmt.Println(e)
+
+	var a []int
+	println(len(a), a == nil)
 }
