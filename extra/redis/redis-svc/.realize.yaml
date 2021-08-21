@@ -4,7 +4,7 @@ settings:
     interval: 0s
 schema:
 - name: redis-svc
-  path: /Users/bytedance/code/the-go-programming-language/extra/redis/redis-svc
+  path: /code/the-go-programming-language/extra/redis/redis-svc
   commands:
     install:
       status: true
